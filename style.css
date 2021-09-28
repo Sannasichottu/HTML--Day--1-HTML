@@ -1,0 +1,33 @@
+p {
+    color: lightcoral;
+    font-size: 18px;
+    border: 5px rgb(83, 214, 231);
+    border-style: outset;
+    padding: 7px;
+    margin: 25px;
+}
+
+.menu {
+    color: blueviolet;
+    list-style-type: disclosure-open;
+}
+
+ul {
+    color: lightyellow;
+    list-style-type: disclosure-open;
+    background-color: lightpink;
+}
+
+.fav {
+    color: midnightblue;
+    list-style-type: square;
+}
+
+h3 {
+    color: chocolate;
+    list-style-type: circle;
+    font-style: inherit;
+    text-transform: initial;
+    letter-spacing: 4px;
+    font-family: 'Courgette', cursive;
+}
